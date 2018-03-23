@@ -1,0 +1,12 @@
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\bin\Debug\netcoreapp2.0\WEBAPIServices.deps.json
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\bin\Debug\netcoreapp2.0\WEBAPIServices.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.csproj.CoreCompileInputs.cache
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.AssemblyInfoInputs.cache
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.AssemblyInfo.cs
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\bin\Debug\netcoreapp2.0\WEBAPIServices.pdb
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.csprojResolveAssemblyReference.cache
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.pdb
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\Hafsal\source\repos\CompanyVisa\WEBAPIServices\obj\Debug\netcoreapp2.0\WEBAPIServices.csproj.CopyComplete

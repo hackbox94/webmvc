@@ -1,0 +1,17 @@
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.csprojResolveAssemblyReference.cache
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.csproj.CoreCompileInputs.cache
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.AssemblyInfoInputs.cache
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.AssemblyInfo.cs
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\ASPMVC.deps.json
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\ASPMVC.runtimeconfig.json
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\ASPMVC.runtimeconfig.dev.json
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\ASPMVC.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\ASPMVC.pdb
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\Models.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\Models.pdb
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.csproj.CopyComplete
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\ASPMVC.pdb
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\WEBAPIServices.dll
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\bin\Debug\netcoreapp2.0\WEBAPIServices.pdb
+C:\Users\Hafsal\source\repos\CompanyVisa\ASPMVC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

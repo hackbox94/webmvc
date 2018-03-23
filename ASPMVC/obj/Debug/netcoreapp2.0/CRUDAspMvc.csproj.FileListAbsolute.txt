@@ -1,0 +1,12 @@
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\bin\Debug\netcoreapp2.0\CRUDAspMvc.deps.json
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\bin\Debug\netcoreapp2.0\CRUDAspMvc.runtimeconfig.json
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\bin\Debug\netcoreapp2.0\CRUDAspMvc.runtimeconfig.dev.json
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\bin\Debug\netcoreapp2.0\CRUDAspMvc.dll
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\bin\Debug\netcoreapp2.0\CRUDAspMvc.pdb
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\CRUDAspMvc.csprojResolveAssemblyReference.cache
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\CRUDAspMvc.csproj.CoreCompileInputs.cache
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\CRUDAspMvc.AssemblyInfoInputs.cache
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\CRUDAspMvc.AssemblyInfo.cs
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\CRUDAspMvc.dll
+C:\Users\afshan\source\repos\CRUDAspCore\CRUDAspMvc\obj\Debug\netcoreapp2.0\CRUDAspMvc.pdb
